@@ -51,3 +51,24 @@ footer{
 .card p{
     text-align: justify !important ;
 }
+
+.card h4{
+    color: brown !important;
+}
+
+.sec-contato{
+    margin-bottom: 10% !important;
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+    margin-top: 5% !important;
+}
+
+.links {
+    text-align: center;
+    padding: 1em;
+    color: rgb(0, 0, 0);
+}
+
+.mapa{
+    margin-top: 5%!important;
+}
